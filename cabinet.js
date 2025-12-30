@@ -64,7 +64,7 @@ module.exports = {
       } else if (/^(page:|p:|#)(\d+)$/i.test(arg)) {
         const pageNum = parseInt(arg.match(/(\d+)$/)[0]);
         options.page = pageNum > 0 ? pageNum : 1;
-      } else if ([“duplicates”, “dupes”, “dupe”].includes(arg.toLowerCase())) {
+      } else if (["duplicates", "dupes", "dupe"].includes(arg.toLowerCase())) {
         options.showDuplicates = true;
       } else if (arg.startsWith('-')) {
         options.excludeTerms.push(arg.slice(1).toLowerCase());
