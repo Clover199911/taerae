@@ -1,0 +1,279 @@
+{
+  "summary": {
+    "totalUserCards": 1851,
+    "cardsInCollection": 1832,
+    "missingCards": 25,
+    "possibleMatches": 3
+  },
+  "missingCards": [
+    {
+      "name": "Taeil",
+      "group": "NCT 127",
+      "rarity": "Unique",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/NCT127/Unique/taeil.png",
+      "ownedBy": 31,
+      "sampleCardCode": "eyf",
+      "similarCards": 0
+    },
+    {
+      "name": "Taeil",
+      "group": "NCT 127",
+      "rarity": "Standard",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/NCT127/Standard/taeil.png",
+      "ownedBy": 30,
+      "sampleCardCode": "2gk",
+      "similarCards": 0
+    },
+    {
+      "name": "Taeil",
+      "group": "NCT 2020",
+      "rarity": "Unique",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/NCT2020/Unique/taeil.png",
+      "ownedBy": 30,
+      "sampleCardCode": "VDA",
+      "similarCards": 0
+    },
+    {
+      "name": "Minjae",
+      "group": "xikers",
+      "rarity": "Unique",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/xikers/Unique/minjun.png",
+      "ownedBy": 24,
+      "sampleCardCode": "qKo",
+      "similarCards": 1
+    },
+    {
+      "name": "Taeil",
+      "group": "NCT 2021",
+      "rarity": "Standard",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/NCT2021/Standard/taeil.png",
+      "ownedBy": 17,
+      "sampleCardCode": "zzr",
+      "similarCards": 0
+    },
+    {
+      "name": "Taeil",
+      "group": "NCT 2020",
+      "rarity": "Mythic",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/NCT2020/Mythic/taeil.png",
+      "ownedBy": 14,
+      "sampleCardCode": "WNA",
+      "similarCards": 0
+    },
+    {
+      "name": "Taeil",
+      "group": "NCT 2020",
+      "rarity": "Glyph",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/NCT2020/Glyph/taeil.png",
+      "ownedBy": 2,
+      "sampleCardCode": "G1gr",
+      "similarCards": 0
+    },
+    {
+      "name": "Jiyoon",
+      "group": "<:anniversary:1270691853267763262> izna",
+      "rarity": "Mythic",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/Customs/jiyoon.png",
+      "ownedBy": 1,
+      "sampleCardCode": "jiyoon",
+      "similarCards": 0
+    },
+    {
+      "name": "Yuha",
+      "group": "<:anniversary:1270691853267763262> Anniversary",
+      "rarity": "Mythic",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/PRISTIN/Mythic/yuha.png",
+      "ownedBy": 1,
+      "sampleCardCode": "326",
+      "similarCards": 0
+    },
+    {
+      "name": "Ju Haknyeon",
+      "group": "Idol Of The Week",
+      "rarity": "Mythic",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/Customs/juhaknyeon.png",
+      "ownedBy": 1,
+      "sampleCardCode": "juhaknyeon",
+      "similarCards": 0
+    },
+    {
+      "name": "Sarang",
+      "group": "Izna",
+      "rarity": "Glyph",
+      "imageURL": "https://media.discordapp.net/attachments/1255890791641907200/1261584383513460837/sarang.png?ex=66937d84&is=66922c04&hm=7caf7b010039605a9a005dbab1c3445cd367e577a34e7f635963c56eed3fdc11&=&format=webp&quality=lossless",
+      "ownedBy": 1,
+      "sampleCardCode": "sarang",
+      "similarCards": 0
+    },
+    {
+      "name": "Maki",
+      "group": "Soloist",
+      "rarity": "Mythic",
+      "imageURL": "https://media.discordapp.net/attachments/1257554759637008509/1260586191200325792/CAKEM.png?ex=669327a0&is=6691d620&hm=39688fbf2fb2525f6fe93619657abdaedd2eb74563e74fa3312e26cbd6b38fe5&=&format=webp&quality=lossless",
+      "ownedBy": 1,
+      "sampleCardCode": "maki",
+      "similarCards": 0
+    },
+    {
+      "name": "Maki",
+      "group": "Soloist",
+      "rarity": "Mythic",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/Customs/makim.png",
+      "ownedBy": 1,
+      "sampleCardCode": "MakiD",
+      "similarCards": 0
+    },
+    {
+      "name": "Beomgyu",
+      "group": "TOMORROW X TOGETHER",
+      "rarity": "Mythic",
+      "imageURL": "https://media.discordapp.net/attachments/1255890791641907200/1261648795494781038/Beomgyu_1.png?ex=6693b981&is=66926801&hm=b6d189389ee29c0e7f26844968df58fe72484bfa422eae78d682187864ab3d55&=&format=webp&quality=lossless",
+      "ownedBy": 1,
+      "sampleCardCode": "beomgyu",
+      "similarCards": 1
+    },
+    {
+      "name": "Haechan",
+      "group": "NCT",
+      "rarity": "Mythic",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/customs/fullsun.png",
+      "ownedBy": 1,
+      "sampleCardCode": "fullsun",
+      "similarCards": 0
+    },
+    {
+      "name": "Maki",
+      "group": "Idol Of The Week",
+      "rarity": "Mythic",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/Customs/makin.png",
+      "ownedBy": 1,
+      "sampleCardCode": "makiN",
+      "similarCards": 0
+    },
+    {
+      "name": "Gyuvin",
+      "group": "Anniversary",
+      "rarity": "Mythic",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/Customs/gyuvin.png",
+      "ownedBy": 1,
+      "sampleCardCode": "gyuvin",
+      "similarCards": 0
+    },
+    {
+      "name": "Jiwoo",
+      "group": "Anniversary",
+      "rarity": "Mythic",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/Customs/ljw.png",
+      "ownedBy": 1,
+      "sampleCardCode": "ljw",
+      "similarCards": 0
+    },
+    {
+      "name": "Maki",
+      "group": "Soloist",
+      "rarity": "Standard",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/Customs/makis.png",
+      "ownedBy": 1,
+      "sampleCardCode": "MakiH",
+      "similarCards": 0
+    },
+    {
+      "name": "Nien",
+      "group": "Triple S",
+      "rarity": "Standard",
+      "imageURL": "https://media.discordapp.net/attachments/1257718559208116224/1258220414342266890/Untitled51_20240704083756.png?ex=66874093&is=6685ef13&hm=eeb48c40497352d4863f5fe6a6f2efcd7296fd2cf717bfde863f6727bcaef1da&=&format=webp&quality=lossless",
+      "ownedBy": 1,
+      "sampleCardCode": "nien",
+      "similarCards": 0
+    },
+    {
+      "name": "korangz",
+      "group": "<:17:1302965201729224724> izna",
+      "rarity": "Mythic",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/Customs/korangz.png",
+      "ownedBy": 1,
+      "sampleCardCode": "korangz",
+      "similarCards": 0
+    },
+    {
+      "name": "Minju",
+      "group": "Idol Of The Week",
+      "rarity": "Mythic",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/Customs/minju.png",
+      "ownedBy": 1,
+      "sampleCardCode": "minju",
+      "similarCards": 0
+    },
+    {
+      "name": "Maki",
+      "group": "Soloist",
+      "rarity": "Glyph",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/Customs/makig.png",
+      "ownedBy": 1,
+      "sampleCardCode": "MakiB",
+      "similarCards": 0
+    },
+    {
+      "name": "Beomgyu",
+      "group": "Tomorrow X Together",
+      "rarity": "Standard",
+      "imageURL": "https://media.discordapp.net/attachments/1257713555134742658/1257819585835569172/Untitled50_20240703060455.png?ex=66867406&is=66852286&hm=ee36912763c704a03bfe1e6b0f969d7376e37c30219cd1c1ba98a4951578667a&=&format=webp&quality=lossless",
+      "ownedBy": 1,
+      "sampleCardCode": "txt",
+      "similarCards": 1
+    },
+    {
+      "name": "Maki",
+      "group": "Soloist",
+      "rarity": "Unique",
+      "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/Customs/makiu.png",
+      "ownedBy": 1,
+      "sampleCardCode": "MakiS",
+      "similarCards": 0
+    }
+  ],
+  "possibleMatches": [
+    {
+      "userCard": {
+        "name": "Beomgyu",
+        "group": "TOMORROW X TOGETHER",
+        "rarity": "Mythic",
+        "imageURL": "https://media.discordapp.net/attachments/1255890791641907200/1261648795494781038"
+      },
+      "matches": [
+        {
+          "cardId": 944,
+          "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/Tomor"
+        }
+      ]
+    },
+    {
+      "userCard": {
+        "name": "Minjae",
+        "group": "xikers",
+        "rarity": "Unique",
+        "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/xiker"
+      },
+      "matches": [
+        {
+          "cardId": 266,
+          "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/xiker"
+        }
+      ]
+    },
+    {
+      "userCard": {
+        "name": "Beomgyu",
+        "group": "Tomorrow X Together",
+        "rarity": "Standard",
+        "imageURL": "https://media.discordapp.net/attachments/1257713555134742658/1257819585835569172"
+      },
+      "matches": [
+        {
+          "cardId": 418,
+          "imageURL": "https://raw.githubusercontent.com/Clover199911/taerae/main/Taerae%20Images/Tomor"
+        }
+      ]
+    }
+  ]
+}
